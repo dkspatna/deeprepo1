@@ -2,6 +2,7 @@ This is file1
 my name is deepak
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is modified by br1
 this is modified by br2
 this is modified by br3
@@ -11,3 +12,6 @@ honest
 =======
 i am a boy
 >>>>>>> br2
+=======
+i live in rehin
+>>>>>>> br3
