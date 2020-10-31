@@ -1,5 +1,9 @@
 This is file1
 my name is deepak
+<<<<<<< HEAD
 this is modified by br1
 this is modified by br2
 this is modified by br3
+=======
+honest
+>>>>>>> br1
